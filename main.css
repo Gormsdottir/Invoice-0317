@@ -1,0 +1,98 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f7f7f7;
+}
+
+.wrapper {
+    max-width: 726px;
+    margin: 50px auto 100px;
+    background-color: #fff;
+    padding: 56px 32px 85px;
+    border-radius: 20px;
+    box-shadow: 64px 64px 64px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+
+.invoice {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 41px;
+    align-items: center;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+.number {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 41px;
+    align-items: center;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+.date {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    color: rgba(0, 0, 0, 0.48);
+}
+
+.logo {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.treaty_parties {
+    margin: 40px auto;
+}
+
+.note__name {
+    margin: 0px 0px 8px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 16px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.48);
+}
+
+.address {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    color: #000000;
+}
+
+.company1 {
+    display: inline-block;
+    margin-left: 0px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+}
+
+.company2 {
+    display: inline-block;
+    float: right;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    letter-spacing: -0.01em;
+}
+
+.clearfix {
+    clear: both;
+}
