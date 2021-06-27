@@ -72,9 +72,8 @@ header {
     color: #000000;
 }
 
-.company1 {
+.company {
     display: inline-block;
-    margin-left: 0px;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
@@ -82,15 +81,9 @@ header {
     letter-spacing: -0.01em;
 }
 
-.company2 {
-    display: inline-block;
+.company--right {
     float: right;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
-    line-height: 24px;
     text-align: right;
-    letter-spacing: -0.01em;
 }
 
 .clearfix {
